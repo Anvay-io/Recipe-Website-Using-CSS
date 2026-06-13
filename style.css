@@ -34,3 +34,16 @@ nav div a:hover {
     text-decoration: underline;
     font-size: 1.5rem;
 }
+
+footer div {
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgb(74, 170, 208) 0%, rgba(121, 176, 144, 1) 56%, rgba(237, 221, 83, 1) 100%);
+    width: 90%;
+    margin: 1rem auto;
+    padding: 1.2rem;
+    border-radius: 20px;
+    text-align: center;
+}
+footer div p {
+    font-size: 1.2rem;
+}
