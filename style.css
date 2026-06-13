@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+nav {
+    position: sticky;
+    top: 0;
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgb(74, 170, 208) 0%, rgba(121, 176, 144, 1) 56%, rgba(237, 221, 83, 1) 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 1.5rem;
+    width: 90%;
+    border-radius: 20px;
+}
+
+nav div h1 {
+    font: 750 2rem "Poppins", sans-serif;
+}
+
+nav div a {
+    font: 600 1.3rem "Poppins", sans-serif;
+    padding-left: 1.5em;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+nav div a:hover {
+    color: #232121;
+    text-decoration: underline;
+    font-size: 1.5rem;
+}
