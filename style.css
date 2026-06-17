@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    background-image: linear-gradient(135deg, #bccae0 0%, #d5dae1 100%);
 }
 
 html {
@@ -158,7 +158,7 @@ img {
 }
 
 .im:hover {
-    transform: scale(1.1);
+    transform: scale(1.08);
 }
 
 .im {
