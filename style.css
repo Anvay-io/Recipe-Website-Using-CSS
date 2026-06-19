@@ -31,7 +31,8 @@ nav {
 }
 
 nav div h1 {
-    font: 750 2rem "Poppins", sans-serif;
+    font: 750 2rem large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 nav div a {
