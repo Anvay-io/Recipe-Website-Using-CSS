@@ -38,14 +38,14 @@ nav div h1 {
 
 nav div a {
     font: 600 1.3rem "Poppins", sans-serif;
-    padding-left: 1.5em;
+    padding-left: 1.6em;
     text-decoration: none;
     transition: all 0.2s;
 }
 nav div a:hover {
-    color: #232121;
+    color: #171616;
     text-decoration: underline;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 footer div {
