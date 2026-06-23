@@ -51,10 +51,10 @@ nav div a:hover {
 footer div {
     background: #2A7B9B;
     background: var(--back-color);
-    width: 90%;
+    width: 80%;
     margin: 1rem auto;
-    padding: 1.2rem;
-    border-radius: 20px;
+    padding: 0.6rem;
+    border-radius: 10px;
     text-align: center;
 }
 footer div p {
